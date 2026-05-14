@@ -16,18 +16,22 @@
 
 ---
 
-```bash
-→ whoami
+```console
+$ whoami
   electrical engineer turned automation obsessive
 
-→ cat philosophy.txt
-  if humans repeat it, machines should do it
-  automation creates consistency, not just efficiency
+$ cat philosophy.txt
+  "if humans repeat it, machines should do it"
+  "automation creates consistency, not just efficiency"
 
-→ ls projects/
-  industrial_automation/  qa_scripts/  system_optimizers/  rdp_manager/
+$ ls ~/projects
+  industrial_automation/   qa_scripts/
+  system_optimizers/       rdp_manager/
 
-→ git status  ▋
+$ git log --oneline -1
+  a3f92c1 (HEAD -> main) fix: eliminated another manual process ✓
+
+$ █
 ```
 
 ---
@@ -40,17 +44,6 @@
 | 🐛 **QA & error proofing** | Validation systems that catch what humans miss, consistently |
 | 💻 **Dev tools & scripts** | Utilities that turn multi-step chores into one command |
 | 🌐 **System integration** | Connecting tools across multinational environments |
-
----
-
-## 📊 Focus areas
-
-```
-Industrial automation  ████████████████████░  95%
-QA & validation        ██████████████████░░░  90%
-System optimization    █████████████████░░░░  85%
-Scripting & tooling    ████████████████░░░░░  80%
-```
 
 ---
 
@@ -67,28 +60,15 @@ Scripting & tooling    ████████████████░░░
 
 ---
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=0078d4&icon_color=1d9e75&text_color=e6edf3&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=0078d4&text_color=e6edf3&bg_color=0d1117" height="160" />
-</p>
-
----
-
 ## ✨ About me
 
 - 🏭 8+ years in **QA, validation, and system optimization** across multinational environments
 - 🤖 My philosophy: **if you do it more than once, automate it**
 - 🔁 I believe automation creates **consistency**, not just efficiency
 - 🤝 Always open to collaborate on projects that push automation forward
-- 🚁 When not coding — capturing aerial landscapes with my **drone**
+- 🚁 When not coding — out flying my **drone**, capturing aerial landscapes from 100m up. Turns out framing a perfect shot requires the same patience as debugging a race condition.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=0078d4&label=profile+views" />
-</p>
 
 <p align="center">
   <em>"The best automation is the one nobody notices — because everything just works."</em>
