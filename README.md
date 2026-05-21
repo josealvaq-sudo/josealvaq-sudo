@@ -40,10 +40,10 @@ $ █
 
 | | |
 |---|---|
-| ⚙️ **Process automation** | Eliminating manual steps in industrial and enterprise workflows |
-| 🐛 **QA & error proofing** | Validation systems that catch what humans miss, consistently |
-| 💻 **Dev tools & scripts** | Utilities that turn multi-step chores into one command |
-| 🌐 **System integration** | Connecting tools across multinational environments |
+| **Process automation** | Eliminating manual steps in industrial and enterprise workflows |
+| **QA & error proofing** | Validation systems that catch what humans miss, consistently |
+| **Dev tools & scripts** | Utilities that turn multi-step chores into one command |
+| **System integration** | Connecting tools across multinational environments |
 
 ---
 
@@ -60,13 +60,13 @@ $ █
 
 ---
 
-## ✨ About me
+##  About me
 
-- 🏭 8+ years in **QA, validation, and system optimization** across multinational environments
-- 🤖 My philosophy: **if you do it more than once, automate it**
-- 🔁 I believe automation creates **consistency**, not just efficiency
-- 🤝 Always open to collaborate on projects that push automation forward
-- 🚁 When not coding — out flying my **drone**, capturing aerial landscapes from 100m up. Turns out framing a perfect shot requires the same patience as debugging a race condition.
+-  8+ years in **QA, validation, and system optimization** across multinational environments
+-  My philosophy: **if you do it more than once, automate it**
+-  I believe automation creates **consistency**, not just efficiency
+-  Always open to collaborate on projects that push automation forward
+-  When not coding — out flying my **drone**, capturing aerial landscapes from 100m up. Turns out framing a perfect shot requires the same patience as debugging a race condition.
 
 ---
 
