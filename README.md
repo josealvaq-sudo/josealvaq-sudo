@@ -36,7 +36,7 @@ $ █
 
 ---
 
-## 🔧 What I build
+## What I build
 
 | | |
 |---|---|
@@ -47,7 +47,7 @@ $ █
 
 ---
 
-## 🛠️ Tech & tools
+## Tech & tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
